@@ -1,1 +1,5 @@
-# Cash-Flow-Minimizer-CPP
+# Cash Flow Minimizer
+<p>The Cash Flow Minimizer is an innovative algorithmic project designed to streamline financial transactions among friends, minimizing the complexity of who owes whom and how much. By leveraging sophisticated algorithm like <b>"GREEDY ALGORITHM"</b>, this system intelligently assesses the financial interactions within a social circle, optimizing the flow of cash between individuals. Rather than each friend keeping track of debts separately, the Cash Flow Minimizer consolidates and redistributes debts to ensure the least number of transactions possible. Through a user-friendly interface, friends can input their expenditures and payments, allowing the algorithm to calculate the most efficient settlement plan. This not only simplifies financial management but also fosters stronger relationships by reducing the need for awkward conversations about who owes what. With the Cash Flow Minimizer, friends can enjoy greater financial harmony and spend more time enjoying each other's company without worrying about monetary debts.</p>
+<li>Language Used: <b>CPP</b></li>
+<li>Algorithm Used: <b>Greedy Algorithm</b></li>
+<li>TIME COMPLEXITY: <B> O(n^2) </B> where n= number of friends.</li>
